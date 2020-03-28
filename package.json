@@ -1,5 +1,5 @@
 {
-  "name": "hm-sms-list-card",
+  "name": "hm-uniapp-sms-list-card",
   "version": "0.0.1",
   "description": "毫末uni-app毫末短信列表卡片组件。支持H5/小程序(微信、支付宝、头条、百度、QQ)/App；组件可自适应各种屏幕大小的手机。",
   "main": "index.js",

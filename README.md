@@ -14,7 +14,7 @@
 
 ## 技术支持
 
-* [uni-app插件市场](https://ext.dcloud.net.cn/plugin?id=1380)
+* [uni-app插件市场](https://ext.dcloud.net.cn/plugin?id=1525)
 
 * [npm包](https://www.npmjs.com/package/hm-uniapp-sms-list-card)
 
@@ -94,7 +94,7 @@ options对象各个属性说明如下：
 
 | 属性名        | 类型     | 默认值 | 说明                                                                       |
 |-----------   |---------|--------|----------------------------------------------------------------------------|
-| company        | String  | -      | 名称                                                                   |
+| paybak        | String  | -      | 名称                                                                   |
 | txt        | String  | -      | 时间                                                                   |
 | desc        | String  | -      | 内容                                                                   |
 
