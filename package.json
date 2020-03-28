@@ -1,0 +1,21 @@
+{
+  "name": "hm-sms-list-card",
+  "version": "0.0.1",
+  "description": "毫末uni-app毫末短信列表卡片组件。支持H5/小程序(微信、支付宝、头条、百度、QQ)/App；组件可自适应各种屏幕大小的手机。",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "毫末",
+    "uniapp",
+    "H5",
+    "小程序",
+    "Android",
+    "iOS",
+    "毫末短信列表卡片",
+    "组件"
+  ],
+  "author": "毫末科技",
+  "license": "MIT"
+}
